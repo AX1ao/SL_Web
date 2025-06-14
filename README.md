@@ -41,4 +41,4 @@ Serein Lab is a small, intentional studio focused on thoughtful digital tools, l
 
 ---
 
-> This is a learning lab, not a polished product. Expect open questions, half-finished thoughts, and evolving systems. You're welcome to learn alongside.
+> This is a learning lab, not a polished product. Expect open questions, half-finished thoughts, and evolving systems. Thank you for watching!
