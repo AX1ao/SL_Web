@@ -37,7 +37,7 @@ Features notes, daily logs, and prep strategies.
 
 ## 🧭 About Serein Lab
 
-Serein Lab is a small, intentional studio focused on thoughtful digital tools, learning, and cognitive engagement — founded by Yuanyao (Ann) Xiao. [Read more →](https://sereinlab.xyz/about)
+Serein Lab is a small, intentional studio focused on thoughtful digital tools, learning, and cognitive engagement — founded by Annarosa. [Read more →](https://sereinlab.xyz/about)
 
 ---
 
