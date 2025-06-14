@@ -1,43 +1,44 @@
-# Chirpy Starter
+# Version 0.1 – A Digital Research & Learning Journal
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+**Version 0.1** is an independent digital lab notebook maintained by [Serein Lab](https://sereinlab.xyz), documenting personal research, learning, and creative exploration in software, AI, language, and systems thinking.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+This project is part studio archive, part thinking playground — an evolving collection of reflections, notes, and prototypes.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+---
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 🌱 Project Categories
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+### `Re:Search` – Research Paper Reflections  
+Long-form commentary on technical papers in AI, optimization, and systems.  
+Emphasis on clarity, critique, and conceptual mapping.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### `Re:View` – Academic Course Review  
+Structured re-learning of past university courses.  
+Includes clean notes, diagrams, and learning gaps.
 
-## Usage
+### `Re:prendre` – French Learning Journal  
+A bilingual language learning log aiming for B2 fluency.  
+Includes study logs, vocabulary tables, and journal entries.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+### `Re:boot` – SDE Interview Preparation  
+Tracking progress in CS review, Leetcode practice, and system design prep.  
+Features notes, daily logs, and prep strategies.
 
-## Contributing
+---
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+## ✨ Goals for 2025–2026
 
-## License
+- Publish consistent notes and reflections in each category
+- Reach fluency milestones in both code and language
+- Develop and test public-facing educational tools
+- Create a habit of long-form, honest writing
 
-This work is published under [MIT][mit] License.
+---
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 🧭 About Serein Lab
+
+Serein Lab is a small, intentional studio focused on thoughtful digital tools, learning, and cognitive engagement — founded by Yuanyao (Ann) Xiao. [Read more →](https://sereinlab.xyz/about)
+
+---
+
+> This is a learning lab, not a polished product. Expect open questions, half-finished thoughts, and evolving systems. You're welcome to learn alongside.
